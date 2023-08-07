@@ -1,0 +1,10 @@
+name: examples
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - conda-forge::libstdcxx-ng
+  - pip:
+    - -r requirements.txt

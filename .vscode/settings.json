@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/python-examples/.conda/bin/python3",
+  "cSpell.words": [
+    "buildozer",
+    "Kivy"
+  ],
+  "pylint.path": [
+    "/workspaces/python-examples/.conda/bin/pylint"
+  ]
+}
