@@ -1,0 +1,10 @@
+name: concepts
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - -r requirements.txt
+

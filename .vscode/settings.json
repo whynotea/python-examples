@@ -6,5 +6,9 @@
   ],
   "pylint.path": [
     "/workspaces/python-examples/.conda/bin/pylint"
-  ]
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
